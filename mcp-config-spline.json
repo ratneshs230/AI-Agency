@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "spline": {
+      "command": "node",
+      "args": [
+        "E:\\agentic_dev_env\\All_Projects\\Lab\\Web Building Agency\\spline-mcp-server\\bin\\cli.js",
+        "--mode",
+        "mcp",
+        "--transport",
+        "stdio"
+      ]
+    }
+  }
+}

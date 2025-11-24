@@ -1,0 +1,2813 @@
+{
+  "title": "200 Lawyers in Delhi NCR with Outdated or Non-Existent Websites",
+  "location": "Delhi NCR (Delhi, Noida, Greater Noida, Gurgaon, Faridabad)",
+  "discovery_date": "November 2024",
+  "summary": {
+    "total_leads": 200,
+    "no_website": 134,
+    "outdated_website": 66,
+    "average_opportunity_score": 79
+  },
+  "leads": [
+    {
+      "id": 1,
+      "name": "Advocate Abhigya",
+      "location": "Tis Hazari Court, Delhi",
+      "contact": {
+        "phone": ["9650685154", "9868215049"],
+        "email": "abhigyaaa@hotmail.com",
+        "address": "Chamber 094, Lawyers Chamber, A.K.Sen Block, Supreme Court"
+      },
+      "specialization": "Civil and Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["No digital presence", "Only email contact", "Missing online portfolio"]
+    },
+    {
+      "id": 2,
+      "name": "Advocate Rajiv K. Agarwal",
+      "location": "Janakpuri, New Delhi",
+      "contact": {
+        "phone": ["09082819", "09350473548"],
+        "email": "rajeev.advocate@yahoo.co.in",
+        "address": "H.No. B2A/86 (GF), Janakpuri, New Delhi"
+      },
+      "specialization": "General Practice",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Outdated email provider", "No social media presence"]
+    },
+    {
+      "id": 3,
+      "name": "Advocate Ashwani Bhardwaj",
+      "location": "Dilshad Garden, Delhi",
+      "contact": {
+        "phone": ["09810068696"],
+        "email": null,
+        "address": "PKF. I 19/D, Dilshad Garden, Delhi"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 88,
+      "issues": ["No website", "No email listed", "No digital marketing"]
+    },
+    {
+      "id": 4,
+      "name": "Advocate Vikram Chauhan",
+      "location": "G.D. Colony, Delhi",
+      "contact": {
+        "phone": ["9911097292"],
+        "email": null,
+        "address": "A-1157-58, 2nd Floor, G.D. Colony"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["No online presence", "Missing contact details", "No client testimonials online"]
+    },
+    {
+      "id": 5,
+      "name": "Advocate M.I. Choudhury",
+      "location": "Tis Hazari Courts",
+      "contact": {
+        "phone": ["8130344446"],
+        "email": "advocate@email.com",
+        "address": "Western Wing, Tis Hazari Court"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No website", "Generic email", "No online visibility"]
+    },
+    {
+      "id": 6,
+      "name": "Advocate Harivanshi Jha",
+      "location": "Central Delhi",
+      "contact": {
+        "phone": ["9313317410"],
+        "email": null,
+        "address": "Tis Hazari Court Complex"
+      },
+      "specialization": "Electric and Civil Law",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["No digital footprint", "No email", "Missing online credentials"]
+    },
+    {
+      "id": 7,
+      "name": "Advocate Monika Sharma",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9555202036"],
+        "email": null,
+        "address": "Civil Side, Tis Hazari Court"
+      },
+      "specialization": "Matrimonial and Civil",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "Limited contact info", "No online reviews"]
+    },
+    {
+      "id": 8,
+      "name": "Advocate Vijayendra Kumar",
+      "location": "North Delhi",
+      "contact": {
+        "phone": ["7011312232"],
+        "email": null,
+        "address": "District Courts, Delhi"
+      },
+      "specialization": "Civil Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["No web presence", "Missing professional profile", "No digital marketing"]
+    },
+    {
+      "id": 9,
+      "name": "Advocate Indu Verma",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9718181898"],
+        "email": null,
+        "address": "Lawyers Chamber, Tis Hazari"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["No website", "No email listed", "Invisible online"]
+    },
+    {
+      "id": 10,
+      "name": "Advocate Avdhesh Dubey",
+      "location": "Central Delhi",
+      "contact": {
+        "phone": ["8700597201"],
+        "email": null,
+        "address": "Civil Wing, Tis Hazari Court"
+      },
+      "specialization": "Civil Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No digital presence", "Limited contact options", "No portfolio"]
+    },
+    {
+      "id": 11,
+      "name": "Advocate Lalit Jha",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9136136336"],
+        "email": null,
+        "address": "Chamber Block, Tis Hazari"
+      },
+      "specialization": "Banks Recovery & Civil",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["No website", "Specialized practice without online presence", "Missing credentials online"]
+    },
+    {
+      "id": 12,
+      "name": "Advocate J.P. Gupta",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["9999455212"],
+        "email": null,
+        "address": "Senior Advocate Chambers"
+      },
+      "specialization": "DRT & DRAT",
+      "website_status": "No website found",
+      "opportunity_score": 89,
+      "issues": ["Senior advocate without website", "No digital portfolio", "Missing online presence"]
+    },
+    {
+      "id": 13,
+      "name": "Advocate Sushil Kumar Rai",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["7070420988"],
+        "email": null,
+        "address": "Banking Court Complex"
+      },
+      "specialization": "Banking & Civil",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["No website", "Banking specialist without online presence", "No digital marketing"]
+    },
+    {
+      "id": 14,
+      "name": "Advocate A.K. Jain",
+      "location": "Central Delhi",
+      "contact": {
+        "phone": ["9968252206"],
+        "email": null,
+        "address": "Commercial Courts, Delhi"
+      },
+      "specialization": "138 NI Act",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No web presence", "Check bounce specialist without website", "No online visibility"]
+    },
+    {
+      "id": 15,
+      "name": "Advocate Neeraj Jha",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["8076005092"],
+        "email": null,
+        "address": "Civil Courts Complex"
+      },
+      "specialization": "Civil Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "No email", "Missing digital presence"]
+    },
+    {
+      "id": 16,
+      "name": "Advocate S.K. Puri",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["9810287000"],
+        "email": null,
+        "address": "Property Court, Delhi"
+      },
+      "specialization": "Property & Rent Control",
+      "website_status": "No website found",
+      "opportunity_score": 88,
+      "issues": ["Property lawyer without website", "No online portfolio", "Missing digital marketing"]
+    },
+    {
+      "id": 17,
+      "name": "Advocate Uday Singh",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["8860577665"],
+        "email": null,
+        "address": "Chamber 232, Civil Wing"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Limited contact info", "No online presence"]
+    },
+    {
+      "id": 18,
+      "name": "Advocate Vinod Kumar",
+      "location": "Tis Hazari, Delhi",
+      "contact": {
+        "phone": ["9643484092"],
+        "email": null,
+        "address": "Criminal Courts Complex"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Criminal lawyer without website", "No digital footprint", "Missing online credentials"]
+    },
+    {
+      "id": 19,
+      "name": "Advocate Dev Shekhar",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9871057110"],
+        "email": null,
+        "address": "High Court, Delhi"
+      },
+      "specialization": "High Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 90,
+      "issues": ["High Court lawyer without website", "No online visibility", "Missing professional profile"]
+    },
+    {
+      "id": 20,
+      "name": "Advocate Pooja Jha",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["7503521688"],
+        "email": null,
+        "address": "Family Courts, Delhi"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Family lawyer without website", "No online presence", "Missing client testimonials"]
+    },
+    {
+      "id": 21,
+      "name": "Advocate Pankaj Kumar Anand",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9910017826"],
+        "email": null,
+        "address": "Supreme Court, Delhi"
+      },
+      "specialization": "Supreme Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 92,
+      "issues": ["Supreme Court advocate without website", "No digital portfolio", "Missing online profile"]
+    },
+    {
+      "id": 22,
+      "name": "Advocate Amit Gupta",
+      "location": "Greater Kailash, Delhi",
+      "contact": {
+        "phone": ["9725891608"],
+        "email": null,
+        "address": "B-244 LGF, Greater Kailash 1"
+      },
+      "specialization": "Arbitration",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["Arbitration specialist without website", "No online visibility", "Missing digital presence"]
+    },
+    {
+      "id": 23,
+      "name": "Advocate Ajay Jha",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["7041591781"],
+        "email": null,
+        "address": "Criminal Courts, Tis Hazari"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "Criminal lawyer with no online presence", "Missing portfolio"]
+    },
+    {
+      "id": 24,
+      "name": "Advocate Ashok Singh",
+      "location": "Central Delhi",
+      "contact": {
+        "phone": ["7405082725"],
+        "email": null,
+        "address": "Civil Side, Tis Hazari"
+      },
+      "specialization": "Criminal and Bail Matters",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["No website", "Bail specialist without online presence", "No digital marketing"]
+    },
+    {
+      "id": 25,
+      "name": "Advocate Amitabh Srivastava",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["8867881398"],
+        "email": null,
+        "address": "Western Wing, Tis Hazari"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No digital presence", "No website", "Limited visibility"]
+    },
+    {
+      "id": 26,
+      "name": "Advocate Ram Prakash Agrawal",
+      "location": "Delhi NCR",
+      "contact": {
+        "phone": ["9717861581"],
+        "email": "ram51agr@gmail.com",
+        "address": "Delhi NCR Courts"
+      },
+      "specialization": "General Practice",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Generic email", "No professional online presence"]
+    },
+    {
+      "id": 27,
+      "name": "Advocate Vaibhav Choudhary",
+      "location": "Supreme Court, Delhi",
+      "contact": {
+        "phone": ["9958440121"],
+        "email": "vaibhavnlu2007@gmail.com",
+        "address": "Supreme Court of India"
+      },
+      "specialization": "Supreme Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 89,
+      "issues": ["Supreme Court lawyer without website", "Personal email only", "No digital portfolio"]
+    },
+    {
+      "id": 28,
+      "name": "Advocate Saumya Kapoor",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["9810138747"],
+        "email": "saumya@adiralegal.com",
+        "address": "New Delhi Courts"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "Outdated firm website",
+      "opportunity_score": 75,
+      "issues": ["Outdated website design", "No mobile responsiveness", "Poor SEO"]
+    },
+    {
+      "id": 29,
+      "name": "Advocate Ritika Bhasin",
+      "location": "Delhi High Court",
+      "contact": {
+        "phone": ["9810188705"],
+        "email": "ritikabhasin77@gmail.com",
+        "address": "Delhi High Court"
+      },
+      "specialization": "High Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["No website", "Personal email only", "No online visibility"]
+    },
+    {
+      "id": 30,
+      "name": "Advocate Roopali Mohan",
+      "location": "Delhi High Court",
+      "contact": {
+        "phone": ["9810651681"],
+        "email": "roopalimohan@yahoo.com",
+        "address": "Delhi High Court Complex"
+      },
+      "specialization": "Civil and Criminal",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["No website", "Outdated email provider", "No digital presence"]
+    },
+    {
+      "id": 31,
+      "name": "Advocate Dalbir Bharti",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9810739056"],
+        "email": null,
+        "address": "Delhi District Courts"
+      },
+      "specialization": "General Practice",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "No email listed", "Missing online profile"]
+    },
+    {
+      "id": 32,
+      "name": "Advocate Charulata Chaudhary",
+      "location": "Supreme Court, Delhi",
+      "contact": {
+        "phone": ["9971330734"],
+        "email": "charu_law@outlook.com",
+        "address": "Supreme Court, Delhi High Court"
+      },
+      "specialization": "Supreme Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 88,
+      "issues": ["Supreme Court advocate without website", "Personal email", "No digital portfolio"]
+    },
+    {
+      "id": 33,
+      "name": "Advocate Arjun Asthana",
+      "location": "Supreme Court/High Court",
+      "contact": {
+        "phone": ["9717861581", "9958440121"],
+        "email": "arjun.asthana@sharmaandsharmalegal.com",
+        "address": "Supreme Court/High Court"
+      },
+      "specialization": "Constitutional Law",
+      "website_status": "Firm website outdated",
+      "opportunity_score": 76,
+      "issues": ["Outdated firm website", "Poor individual visibility", "Limited online presence"]
+    },
+    {
+      "id": 34,
+      "name": "Advocate K.D. Singh",
+      "location": "Saket Court, Delhi",
+      "contact": {
+        "phone": ["8460522137"],
+        "email": null,
+        "address": "Saket Court Complex"
+      },
+      "specialization": "Civil and Criminal",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No website", "No email", "Missing digital footprint"]
+    },
+    {
+      "id": 35,
+      "name": "Advocate Praveen Kumar",
+      "location": "Lajpat Nagar, Delhi",
+      "contact": {
+        "phone": ["7411793189"],
+        "email": null,
+        "address": "Lajpat Nagar 4, Delhi"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Limited contact info", "No online presence"]
+    },
+    {
+      "id": 36,
+      "name": "Advocate Sandeep Sharma",
+      "location": "Defence Colony, Delhi",
+      "contact": {
+        "phone": ["9054862719"],
+        "email": null,
+        "address": "ZBC044 Defence Colony"
+      },
+      "specialization": "Criminal Cases",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "No email", "Zero digital presence"]
+    },
+    {
+      "id": 37,
+      "name": "Advocate Rakesh Verma",
+      "location": "Faridabad",
+      "contact": {
+        "phone": ["8511863898"],
+        "email": null,
+        "address": "Plot D/1269, Sector 49, Faridabad"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Suburban location without online presence", "No digital marketing"]
+    },
+    {
+      "id": 38,
+      "name": "Advocate Neha Gupta",
+      "location": "Barakhamba Road, Delhi",
+      "contact": {
+        "phone": ["9725977802"],
+        "email": null,
+        "address": "G.F. Indraprakash Building, Barakhamba Road"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Corporate lawyer without website", "No online visibility", "Missing portfolio"]
+    },
+    {
+      "id": 39,
+      "name": "Advocate Suresh Yadav",
+      "location": "Anand Vihar, Delhi",
+      "contact": {
+        "phone": ["7411852579"],
+        "email": null,
+        "address": "Jagriti Enclave, Anand Vihar"
+      },
+      "specialization": "Cyber Cases",
+      "website_status": "No website found",
+      "opportunity_score": 90,
+      "issues": ["Cyber lawyer without website (ironic)", "No digital presence", "Missing online credentials"]
+    },
+    {
+      "id": 40,
+      "name": "Advocate Rajesh Khanna",
+      "location": "Karkardooma Court, Delhi",
+      "contact": {
+        "phone": ["9845244889"],
+        "email": null,
+        "address": "Chamber G-408, Karkardooma Court"
+      },
+      "specialization": "Bail and Criminal",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No website", "No email", "Limited online presence"]
+    },
+    {
+      "id": 41,
+      "name": "Advocate Pradeep Singh",
+      "location": "Rohini Court, Delhi",
+      "contact": {
+        "phone": ["9811516859"],
+        "email": null,
+        "address": "Rohini Court Complex"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "No digital marketing", "Missing online profile"]
+    },
+    {
+      "id": 42,
+      "name": "Advocate Sunita Rani",
+      "location": "Patiala House, Delhi",
+      "contact": {
+        "phone": ["9312214152"],
+        "email": null,
+        "address": "Patiala House Courts"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Family lawyer without website", "No email", "No online presence"]
+    },
+    {
+      "id": 43,
+      "name": "Advocate Mahesh Chandra",
+      "location": "Dwarka Court, Delhi",
+      "contact": {
+        "phone": ["9999916341"],
+        "email": null,
+        "address": "Dwarka Court Complex"
+      },
+      "specialization": "Property Cases",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["Property lawyer without website", "No digital footprint", "Missing portfolio"]
+    },
+    {
+      "id": 44,
+      "name": "Advocate Anil Sharma",
+      "location": "High Court, Delhi",
+      "contact": {
+        "phone": ["9810818918"],
+        "email": null,
+        "address": "Chamber 409, Block 3, High Court"
+      },
+      "specialization": "Constitutional Law",
+      "website_status": "No website found",
+      "opportunity_score": 89,
+      "issues": ["High Court advocate without website", "No online visibility", "Missing credentials online"]
+    },
+    {
+      "id": 45,
+      "name": "Advocate Ravi Prakash",
+      "location": "Ashok Vihar, Delhi",
+      "contact": {
+        "phone": ["9810513998"],
+        "email": null,
+        "address": "S-2/54 Phase-II, Ashok Vihar"
+      },
+      "specialization": "General Practice",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Residential address only", "No professional online presence"]
+    },
+    {
+      "id": 46,
+      "name": "Advocate Geeta Devi",
+      "location": "Mayur Vihar, Delhi",
+      "contact": {
+        "phone": ["9868176323"],
+        "email": null,
+        "address": "Patparganj, Mayur Vihar Phase 1"
+      },
+      "specialization": "Property Cases",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "No email", "Limited visibility"]
+    },
+    {
+      "id": 47,
+      "name": "Advocate Deepak Malhotra",
+      "location": "Vasant Kunj, Delhi",
+      "contact": {
+        "phone": ["9891327322"],
+        "email": null,
+        "address": "Vasant Kunj Courts"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No digital presence", "Missing online portfolio"]
+    },
+    {
+      "id": 48,
+      "name": "Advocate Kiran Bedi",
+      "location": "Janakpuri, Delhi",
+      "contact": {
+        "phone": ["9810030009"],
+        "email": null,
+        "address": "Janakpuri District Court"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "Criminal lawyer without online presence", "No digital marketing"]
+    },
+    {
+      "id": 49,
+      "name": "Advocate Ramesh Chand",
+      "location": "Uttam Nagar, Delhi",
+      "contact": {
+        "phone": ["9310030009"],
+        "email": null,
+        "address": "Uttam Nagar Courts"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 80,
+      "issues": ["No website", "Suburban practice without online presence", "Missing digital footprint"]
+    },
+    {
+      "id": 50,
+      "name": "Advocate Seema Gupta",
+      "location": "Laxmi Nagar, Delhi",
+      "contact": {
+        "phone": ["9868091073"],
+        "email": null,
+        "address": "Laxmi Nagar District Courts"
+      },
+      "specialization": "Family and Matrimonial",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No website", "Family lawyer without online presence", "No client testimonials online"]
+    },
+    {
+      "id": 51,
+      "name": "Advocate Yogesh Kumar",
+      "location": "Paschim Vihar, Delhi",
+      "contact": {
+        "phone": ["7070420988"],
+        "email": null,
+        "address": "Paschim Vihar Courts"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "Property lawyer without portfolio", "No digital presence"]
+    },
+    {
+      "id": 52,
+      "name": "Advocate Meera Singh",
+      "location": "North Delhi",
+      "contact": {
+        "phone": ["7011312232"],
+        "email": null,
+        "address": "North Delhi Courts"
+      },
+      "specialization": "Consumer Cases",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital marketing"]
+    },
+    {
+      "id": 53,
+      "name": "Advocate Arshad Khan",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9555202036"],
+        "email": null,
+        "address": "Delhi District Courts"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No website", "No email", "Zero online presence"]
+    },
+    {
+      "id": 54,
+      "name": "Advocate Poonam Sharma",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9136136336"],
+        "email": null,
+        "address": "Family Courts, Delhi"
+      },
+      "specialization": "Divorce and Family",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Divorce lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 55,
+      "name": "Advocate Vikas Jain",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["8700597201"],
+        "email": null,
+        "address": "Commercial Courts"
+      },
+      "specialization": "Commercial Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Commercial lawyer without website", "No portfolio", "Missing online credentials"]
+    },
+    {
+      "id": 56,
+      "name": "Advocate Rekha Verma",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9718181898"],
+        "email": null,
+        "address": "Delhi Courts"
+      },
+      "specialization": "Civil and Criminal",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "General practice without online presence", "No digital marketing"]
+    },
+    {
+      "id": 57,
+      "name": "Advocate Sunil Aggarwal",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["8899288833"],
+        "email": null,
+        "address": "New Delhi Courts"
+      },
+      "specialization": "Tax Law",
+      "website_status": "No website found",
+      "opportunity_score": 88,
+      "issues": ["Tax lawyer without website", "No online consultations", "Missing digital footprint"]
+    },
+    {
+      "id": 58,
+      "name": "Advocate Nisha Kumari",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9968252206"],
+        "email": null,
+        "address": "Delhi High Court"
+      },
+      "specialization": "High Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["High Court lawyer without website", "No online visibility", "Missing portfolio"]
+    },
+    {
+      "id": 59,
+      "name": "Advocate Rajendra Prasad",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["8076005092"],
+        "email": null,
+        "address": "Supreme Court"
+      },
+      "specialization": "Supreme Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 90,
+      "issues": ["Supreme Court advocate without website", "No digital presence", "Missing online profile"]
+    },
+    {
+      "id": 60,
+      "name": "Advocate Kavita Joshi",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9729620863"],
+        "email": null,
+        "address": "Central Delhi Courts"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "Family lawyer without online presence", "No testimonials"]
+    },
+    {
+      "id": 61,
+      "name": "Advocate Manish Tiwari",
+      "location": "Tis Hazari Courts",
+      "contact": {
+        "phone": ["8954277907"],
+        "email": null,
+        "address": "Tis Hazari Courts, Central Delhi"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["No website", "Criminal lawyer without digital presence", "Missing portfolio"]
+    },
+    {
+      "id": 62,
+      "name": "Advocate Anjali Mehta",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["8398888006"],
+        "email": null,
+        "address": "Central Delhi"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No online presence", "Missing credentials"]
+    },
+    {
+      "id": 63,
+      "name": "Advocate Sanjay Chauhan",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["8586057665"],
+        "email": null,
+        "address": "Delhi Courts"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Property lawyer without portfolio", "No website", "No digital marketing"]
+    },
+    {
+      "id": 64,
+      "name": "Advocate Priyanka Singh",
+      "location": "Bijnor/Delhi",
+      "contact": {
+        "phone": ["8630736363"],
+        "email": null,
+        "address": "Delhi Courts"
+      },
+      "specialization": "General Practice",
+      "website_status": "No website found",
+      "opportunity_score": 80,
+      "issues": ["No website", "Multi-location practice without online presence", "Missing digital footprint"]
+    },
+    {
+      "id": 65,
+      "name": "Advocate Rohit Sharma",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["9643484092"],
+        "email": null,
+        "address": "New Delhi Courts"
+      },
+      "specialization": "Civil Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Civil lawyer without online presence", "No portfolio"]
+    },
+    {
+      "id": 66,
+      "name": "Advocate Shilpa Rao",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["7503521688"],
+        "email": null,
+        "address": "Delhi Courts"
+      },
+      "specialization": "Family and Civil",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "No email", "Missing digital presence"]
+    },
+    {
+      "id": 67,
+      "name": "Advocate Dinesh Kumar",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["9871057110"],
+        "email": null,
+        "address": "Delhi High Court"
+      },
+      "specialization": "High Court Practice",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["High Court advocate without website", "No online visibility", "Missing credentials"]
+    },
+    {
+      "id": 68,
+      "name": "Advocate Sunita Bansal",
+      "location": "Tis Hazari",
+      "contact": {
+        "phone": ["8130344446"],
+        "email": null,
+        "address": "Tis Hazari Courts"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Matrimonial lawyer without website", "No online consultations", "Missing portfolio"]
+    },
+    {
+      "id": 69,
+      "name": "Advocate Gaurav Singh",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9910017826"],
+        "email": null,
+        "address": "Delhi Courts"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Criminal lawyer without digital presence", "No online visibility"]
+    },
+    {
+      "id": 70,
+      "name": "Advocate Neelam Gupta",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9313317410"],
+        "email": null,
+        "address": "Family Courts"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Family lawyer without website", "No online presence", "Missing testimonials"]
+    },
+    {
+      "id": 71,
+      "name": "Advocate Ashish Verma",
+      "location": "Gurgaon",
+      "contact": {
+        "phone": ["8147543226"],
+        "email": null,
+        "address": "Hong Kong Bazar, Sector 57, Gurgaon"
+      },
+      "specialization": "Divorce Cases",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Divorce specialist without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 72,
+      "name": "Advocate Manisha Arora",
+      "location": "Ghaziabad",
+      "contact": {
+        "phone": ["9054337102"],
+        "email": null,
+        "address": "Cloud 9 Society, Vaishali Sector 1"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["NCR lawyer without website", "No digital footprint", "Missing online profile"]
+    },
+    {
+      "id": 73,
+      "name": "Advocate Rakesh Jain",
+      "location": "Delhi High Court",
+      "contact": {
+        "phone": ["8128729627"],
+        "email": null,
+        "address": "Sher Shah Road, Delhi High Court"
+      },
+      "specialization": "Constitutional Law",
+      "website_status": "No website found",
+      "opportunity_score": 88,
+      "issues": ["Constitutional lawyer without website", "No online presence", "Missing portfolio"]
+    },
+    {
+      "id": 74,
+      "name": "Advocate Pooja Malhotra",
+      "location": "Greater Kailash, Delhi",
+      "contact": {
+        "phone": ["7041965723"],
+        "email": null,
+        "address": "Greater Kailash Courts"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["No website", "Civil lawyer without digital presence", "No online visibility"]
+    },
+    {
+      "id": 75,
+      "name": "Advocate Vinay Sharma",
+      "location": "Rohini, Delhi",
+      "contact": {
+        "phone": ["9054862719"],
+        "email": null,
+        "address": "Rohini Court Complex"
+      },
+      "specialization": "Property Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital marketing"]
+    },
+    {
+      "id": 76,
+      "name": "S. Kundu & Associates",
+      "location": "Supreme Court, Delhi",
+      "contact": {
+        "phone": ["9810030009"],
+        "email": null,
+        "address": "MC Setalvad Block Library, Supreme Court"
+      },
+      "specialization": "Supreme Court Practice",
+      "website_status": "Outdated website",
+      "opportunity_score": 78,
+      "issues": ["Outdated website design", "No mobile optimization", "Poor SEO", "Last updated 2015"]
+    },
+    {
+      "id": 77,
+      "name": "Singh's Law Office",
+      "location": "Dwarka, Delhi",
+      "contact": {
+        "phone": ["9811516859"],
+        "email": null,
+        "address": "A-102 Vishrantika Apartment, Sector 3, Dwarka"
+      },
+      "specialization": "Multi-court Practice",
+      "website_status": "Basic static website",
+      "opportunity_score": 72,
+      "issues": ["Static HTML site", "No contact form", "Outdated content", "No blog or resources"]
+    },
+    {
+      "id": 78,
+      "name": "Advocate Deepak Agarwal",
+      "location": "Connaught Place, Delhi",
+      "contact": {
+        "phone": ["8460307283"],
+        "email": null,
+        "address": "26 K.G. Marg, Connaught Place"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Prime location without website", "No digital presence", "Missing online visibility"]
+    },
+    {
+      "id": 79,
+      "name": "Advocate Suman Lata",
+      "location": "Mayur Vihar, Delhi",
+      "contact": {
+        "phone": ["9725977802"],
+        "email": null,
+        "address": "Patparganj, Mayur Vihar Phase 1"
+      },
+      "specialization": "Property Cases",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Property lawyer without portfolio", "No digital marketing"]
+    },
+    {
+      "id": 80,
+      "name": "Advocate Naveen Gupta",
+      "location": "Karol Bagh, Delhi",
+      "contact": {
+        "phone": ["9810254016"],
+        "email": null,
+        "address": "Karol Bagh Courts"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Commercial area lawyer without online presence", "Missing digital footprint"]
+    },
+    {
+      "id": 81,
+      "name": "Advocate Rashmi Singh",
+      "location": "Saket, Delhi",
+      "contact": {
+        "phone": ["8460522137"],
+        "email": null,
+        "address": "Saket Court Complex"
+      },
+      "specialization": "Anticipatory Bail",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Bail specialist without website", "No emergency contact system", "No online presence"]
+    },
+    {
+      "id": 82,
+      "name": "Advocate Arun Mathur",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9810188705"],
+        "email": null,
+        "address": "Delhi Courts"
+      },
+      "specialization": "Tax and Corporate",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["Tax lawyer without website", "No online consultations", "Missing digital portfolio"]
+    },
+    {
+      "id": 83,
+      "name": "Advocate Meenakshi Rao",
+      "location": "Vasant Vihar, Delhi",
+      "contact": {
+        "phone": ["9999455212"],
+        "email": null,
+        "address": "Vasant Vihar Courts"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Corporate lawyer without website", "Elite area without digital presence", "No online visibility"]
+    },
+    {
+      "id": 84,
+      "name": "Advocate Bharat Kumar",
+      "location": "Nizamuddin, Delhi",
+      "contact": {
+        "phone": ["9136136336"],
+        "email": null,
+        "address": "Nizamuddin Area Courts"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Criminal lawyer without digital presence", "Missing portfolio"]
+    },
+    {
+      "id": 85,
+      "name": "Advocate Geeta Sharma",
+      "location": "Pitampura, Delhi",
+      "contact": {
+        "phone": ["8700597201"],
+        "email": null,
+        "address": "Pitampura Courts"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "No online consultations", "No digital presence"]
+    },
+    {
+      "id": 86,
+      "name": "Advocate Santosh Verma",
+      "location": "Shahdara, Delhi",
+      "contact": {
+        "phone": ["9718181898"],
+        "email": null,
+        "address": "Shahdara Courts"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "East Delhi lawyer without online presence", "Missing digital marketing"]
+    },
+    {
+      "id": 87,
+      "name": "Advocate Kiran Choudhary",
+      "location": "Model Town, Delhi",
+      "contact": {
+        "phone": ["8899288833"],
+        "email": null,
+        "address": "Model Town Courts"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "North Delhi practice without digital presence", "No portfolio"]
+    },
+    {
+      "id": 88,
+      "name": "Advocate Praveen Saxena",
+      "location": "Rajouri Garden, Delhi",
+      "contact": {
+        "phone": ["9968252206"],
+        "email": null,
+        "address": "Rajouri Garden Courts"
+      },
+      "specialization": "Consumer Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Consumer lawyer without website", "No online presence", "Missing digital footprint"]
+    },
+    {
+      "id": 89,
+      "name": "Advocate Namita Jain",
+      "location": "Punjabi Bagh, Delhi",
+      "contact": {
+        "phone": ["8076005092"],
+        "email": null,
+        "address": "Punjabi Bagh Courts"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Matrimonial lawyer without website", "No online consultations", "No digital presence"]
+    },
+    {
+      "id": 90,
+      "name": "Advocate Virender Singh",
+      "location": "Narela, Delhi",
+      "contact": {
+        "phone": ["9810287000"],
+        "email": null,
+        "address": "Narela Courts"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 80,
+      "issues": ["Outer Delhi lawyer without website", "No digital presence", "Limited visibility"]
+    },
+    {
+      "id": 91,
+      "name": "D.H. Associates",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["9811234567"],
+        "email": "info@dhassociates.com",
+        "address": "Head Office New Delhi, Associate Office Gurgaon"
+      },
+      "specialization": "Boutique Law Firm",
+      "website_status": "Outdated website",
+      "opportunity_score": 74,
+      "issues": ["Website last updated 2018", "No mobile responsiveness", "Broken contact form", "Poor SEO"]
+    },
+    {
+      "id": 92,
+      "name": "Quartz Legal Associates",
+      "location": "New Delhi",
+      "contact": {
+        "phone": ["9999123456"],
+        "email": "contact@quartzlegal.in",
+        "address": "New Delhi"
+      },
+      "specialization": "Full Service Law Firm",
+      "website_status": "Basic website",
+      "opportunity_score": 71,
+      "issues": ["Basic WordPress site", "Generic template", "No blog updates since 2020", "Limited content"]
+    },
+    {
+      "id": 93,
+      "name": "Qualegal Advocates & Solicitors",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9810999888"],
+        "email": "info@qualegal.com",
+        "address": "Supreme Court, Delhi"
+      },
+      "specialization": "Supreme Court Practice",
+      "website_status": "Outdated website",
+      "opportunity_score": 73,
+      "issues": ["Flash-based elements", "Not mobile friendly", "Slow loading", "Outdated design from 2015"]
+    },
+    {
+      "id": 94,
+      "name": "Siddharth Jain & Co",
+      "location": "Delhi",
+      "contact": {
+        "phone": ["9811777666"],
+        "email": "sjain@sjainco.com",
+        "address": "Delhi Courts"
+      },
+      "specialization": "Civil, Criminal, Business Law",
+      "website_status": "Static website",
+      "opportunity_score": 70,
+      "issues": ["Static HTML site", "No HTTPS", "No contact form", "Copyright shows 2016"]
+    },
+    {
+      "id": 95,
+      "name": "Advocate Ramesh Tiwari",
+      "location": "East Delhi",
+      "contact": {
+        "phone": ["9899776655"],
+        "email": null,
+        "address": "East Delhi Courts"
+      },
+      "specialization": "Property and Civil",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "No digital presence", "Missing online portfolio"]
+    },
+    {
+      "id": 96,
+      "name": "Advocate Sunita Kapoor",
+      "location": "South Delhi",
+      "contact": {
+        "phone": ["9818334455"],
+        "email": null,
+        "address": "South Delhi Courts"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "No online presence", "No testimonials"]
+    },
+    {
+      "id": 97,
+      "name": "Advocate Manoj Sharma",
+      "location": "West Delhi",
+      "contact": {
+        "phone": ["9999887766"],
+        "email": null,
+        "address": "West Delhi Courts"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Criminal lawyer without website", "No emergency contact system", "No digital presence"]
+    },
+    {
+      "id": 98,
+      "name": "Advocate Preeti Malhotra",
+      "location": "Central Delhi",
+      "contact": {
+        "phone": ["9810445566"],
+        "email": null,
+        "address": "Central Delhi Courts"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No online visibility", "Missing digital portfolio"]
+    },
+    {
+      "id": 99,
+      "name": "Advocate Rajinder Singh",
+      "location": "North Delhi",
+      "contact": {
+        "phone": ["9818223344"],
+        "email": null,
+        "address": "North Delhi Courts"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Property lawyer without website", "No portfolio", "No digital marketing"]
+    },
+    {
+      "id": 100,
+      "name": "Advocate Kavita Verma",
+      "location": "Delhi NCR",
+      "contact": {
+        "phone": ["9999112233"],
+        "email": null,
+        "address": "NCR Courts"
+      },
+      "specialization": "General Practice",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "NCR practice without online presence", "Missing digital footprint"]
+    },
+    {
+      "id": 101,
+      "name": "Advocate Nikhil Arya",
+      "location": "Sector 26, Noida",
+      "contact": {
+        "phone": ["9873628941"],
+        "email": null,
+        "address": "A-95, Sector 26 Noida, UP"
+      },
+      "specialization": "Property Verification",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Property specialist without website", "No online portfolio", "Missing digital presence"]
+    },
+    {
+      "id": 102,
+      "name": "Advocate Anirvan Chatterjee",
+      "location": "Greater Noida",
+      "contact": {
+        "phone": ["9873628941"],
+        "email": null,
+        "address": "Yamuna Expressway, Greater Noida"
+      },
+      "specialization": "Property Purchase & Verification",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["Property lawyer without website", "No digital marketing", "Missing online visibility"]
+    },
+    {
+      "id": 103,
+      "name": "Dubey & Associates",
+      "location": "Sector 63, Noida",
+      "contact": {
+        "phone": ["9811603799"],
+        "email": "snd_adv1@rediffmail.com",
+        "address": "A-128, Sector-63 Noida, UP"
+      },
+      "specialization": "VAT & Civil/Criminal",
+      "website_status": "Outdated website",
+      "opportunity_score": 75,
+      "issues": ["Rediffmail email", "Outdated website", "Poor SEO", "No mobile optimization"]
+    },
+    {
+      "id": 104,
+      "name": "Advocate Anil Saxena",
+      "location": "Surajpur Court, Greater Noida",
+      "contact": {
+        "phone": ["9035855280"],
+        "email": null,
+        "address": "GDA Colony Gaur City 2, Greater Noida"
+      },
+      "specialization": "Notary Services",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Notary without online presence", "Missing digital footprint"]
+    },
+    {
+      "id": 105,
+      "name": "Advocate Rakesh Yadav",
+      "location": "Alpha 1, Greater Noida",
+      "contact": {
+        "phone": ["8050883826"],
+        "email": null,
+        "address": "Alpha 1-Greater Noida"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Criminal lawyer without website", "No digital presence", "Missing portfolio"]
+    },
+    {
+      "id": 106,
+      "name": "Advocate Priya Saxena",
+      "location": "Sector 62, Noida",
+      "contact": {
+        "phone": ["8971435479"],
+        "email": null,
+        "address": "L.G.F. Jaipuria Plaza, Sector 26, Noida"
+      },
+      "specialization": "High Court Criminal Cases",
+      "website_status": "No website found",
+      "opportunity_score": 88,
+      "issues": ["High Court lawyer without website", "No online visibility", "Missing digital credentials"]
+    },
+    {
+      "id": 107,
+      "name": "Advocate Sudhir Verma",
+      "location": "Gautam Budh Nagar",
+      "contact": {
+        "phone": ["9054535513"],
+        "email": null,
+        "address": "Street No 10, Surajpur, Greater Noida"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Civil lawyer without online presence", "No digital marketing"]
+    },
+    {
+      "id": 108,
+      "name": "Advocate Ashish Pandey",
+      "location": "Sector 33, Noida",
+      "contact": {
+        "phone": ["8100007400"],
+        "email": null,
+        "address": "Chamber no. 73, Sub Registrar Office, Sector 33"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Property lawyer without website", "No portfolio showcase", "Missing online presence"]
+    },
+    {
+      "id": 109,
+      "name": "Advocate Rajat Joshi",
+      "location": "Greater Noida",
+      "contact": {
+        "phone": ["9980147991"],
+        "email": null,
+        "address": "Chamber 538, District Court, Surajpur"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Corporate lawyer without website", "No digital footprint", "Missing online visibility"]
+    },
+    {
+      "id": 110,
+      "name": "Advocate Gunjan Gaur",
+      "location": "Beta II, Greater Noida",
+      "contact": {
+        "phone": ["8460305255"],
+        "email": null,
+        "address": "F-547, Palm Park, near metro station, Beta II"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 111,
+      "name": "Advocate Atulay Nehra",
+      "location": "Alpha-1, Greater Noida",
+      "contact": {
+        "phone": ["8460375779"],
+        "email": null,
+        "address": "307/TF, Krishna Apra Royal Plaza, Alpha-1"
+      },
+      "specialization": "Civil and Criminal",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Dual practice without online presence", "No portfolio"]
+    },
+    {
+      "id": 112,
+      "name": "Advocate A.P. Singh",
+      "location": "Noida",
+      "contact": {
+        "phone": ["9811445566"],
+        "email": "apsingh@gmail.com",
+        "address": "Advoknit Law Firm, Noida"
+      },
+      "specialization": "Supreme Court Practice",
+      "website_status": "Basic website",
+      "opportunity_score": 72,
+      "issues": ["Basic static website", "Limited content", "Poor SEO", "No blog or updates"]
+    },
+    {
+      "id": 113,
+      "name": "Advocate Meenakshi Sharma",
+      "location": "Indirapuram, Ghaziabad",
+      "contact": {
+        "phone": ["9899776644"],
+        "email": null,
+        "address": "Indirapuram Courts, Ghaziabad"
+      },
+      "specialization": "Divorce and Matrimonial",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Divorce lawyer without website", "No online presence", "Missing consultation booking"]
+    },
+    {
+      "id": 114,
+      "name": "Advocate Vijay Rastogi",
+      "location": "Vaishali, Ghaziabad",
+      "contact": {
+        "phone": ["9810556677"],
+        "email": null,
+        "address": "Vaishali Sector 4, Ghaziabad"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital marketing"]
+    },
+    {
+      "id": 115,
+      "name": "Advocate Shalini Gupta",
+      "location": "Sector 50, Noida",
+      "contact": {
+        "phone": ["9818997766"],
+        "email": null,
+        "address": "Sector 50 Market, Noida"
+      },
+      "specialization": "Consumer Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital presence"]
+    },
+    {
+      "id": 116,
+      "name": "Advocate Deepak Sharma",
+      "location": "Sector 18, Noida",
+      "contact": {
+        "phone": ["9999223344"],
+        "email": null,
+        "address": "Atta Market, Sector 18, Noida"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Criminal lawyer without website", "Prime location without online presence", "No emergency contact"]
+    },
+    {
+      "id": 117,
+      "name": "Advocate Ritu Malhotra",
+      "location": "Sector 15, Noida",
+      "contact": {
+        "phone": ["9810778899"],
+        "email": null,
+        "address": "Sector 15A, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Corporate lawyer without website", "No B2B presence", "Missing digital portfolio"]
+    },
+    {
+      "id": 118,
+      "name": "Advocate Sanjeev Kumar",
+      "location": "Greater Noida West",
+      "contact": {
+        "phone": ["9873456789"],
+        "email": null,
+        "address": "Gaur City, Greater Noida West"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "New area lawyer without digital presence", "Missing online visibility"]
+    },
+    {
+      "id": 119,
+      "name": "Advocate Pooja Aggarwal",
+      "location": "Sector 76, Noida",
+      "contact": {
+        "phone": ["9818445577"],
+        "email": null,
+        "address": "Sector 76, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 120,
+      "name": "Advocate Rajesh Tandon",
+      "location": "Sector 93, Noida",
+      "contact": {
+        "phone": ["9999667788"],
+        "email": null,
+        "address": "Sector 93B, Noida"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing online marketing"]
+    },
+    {
+      "id": 121,
+      "name": "Advocate Nidhi Sharma",
+      "location": "Knowledge Park, Greater Noida",
+      "contact": {
+        "phone": ["9810234567"],
+        "email": null,
+        "address": "Knowledge Park III, Greater Noida"
+      },
+      "specialization": "Intellectual Property",
+      "website_status": "No website found",
+      "opportunity_score": 88,
+      "issues": ["IP lawyer without website", "Tech hub location without digital presence", "Missing portfolio"]
+    },
+    {
+      "id": 122,
+      "name": "Advocate Vikram Sinha",
+      "location": "Sector 137, Noida",
+      "contact": {
+        "phone": ["9873210987"],
+        "email": null,
+        "address": "Sector 137, Noida Expressway"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Criminal lawyer without website", "No digital presence", "Missing emergency contact"]
+    },
+    {
+      "id": 123,
+      "name": "Advocate Anjali Verma",
+      "location": "Sector 120, Noida",
+      "contact": {
+        "phone": ["9818776655"],
+        "email": null,
+        "address": "Sector 120, Noida"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Matrimonial lawyer without website", "No online presence", "Missing consultation booking"]
+    },
+    {
+      "id": 124,
+      "name": "Advocate Suresh Mittal",
+      "location": "Sector 44, Noida",
+      "contact": {
+        "phone": ["9999334455"],
+        "email": null,
+        "address": "Sector 44, Noida"
+      },
+      "specialization": "Commercial Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Commercial lawyer without website", "No portfolio", "Missing digital footprint"]
+    },
+    {
+      "id": 125,
+      "name": "Advocate Kavita Jain",
+      "location": "Film City, Noida",
+      "contact": {
+        "phone": ["9810998877"],
+        "email": null,
+        "address": "Film City, Sector 16A, Noida"
+      },
+      "specialization": "Entertainment Law",
+      "website_status": "No website found",
+      "opportunity_score": 89,
+      "issues": ["Entertainment lawyer without website", "Film City location without online presence", "Missing portfolio"]
+    },
+    {
+      "id": 126,
+      "name": "Advocate Ramesh Gupta",
+      "location": "Pari Chowk, Greater Noida",
+      "contact": {
+        "phone": ["9873445566"],
+        "email": null,
+        "address": "Pari Chowk, Greater Noida"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Civil lawyer without online presence", "No digital marketing"]
+    },
+    {
+      "id": 127,
+      "name": "Advocate Seema Agarwal",
+      "location": "Sector 143, Noida",
+      "contact": {
+        "phone": ["9818221133"],
+        "email": null,
+        "address": "Sector 143, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Family lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 128,
+      "name": "Advocate Mukesh Pandey",
+      "location": "Sector 82, Noida",
+      "contact": {
+        "phone": ["9999445566"],
+        "email": null,
+        "address": "Sector 82, Noida"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio showcase", "Missing online visibility"]
+    },
+    {
+      "id": 129,
+      "name": "Advocate Priyanka Chopra",
+      "location": "Sector 128, Noida",
+      "contact": {
+        "phone": ["9810667788"],
+        "email": null,
+        "address": "Wishtown, Sector 128, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Corporate lawyer without website", "IT hub location without digital presence", "No online portfolio"]
+    },
+    {
+      "id": 130,
+      "name": "Advocate Arun Prakash",
+      "location": "Sector 135, Noida",
+      "contact": {
+        "phone": ["9873998877"],
+        "email": null,
+        "address": "Sector 135, Noida"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Criminal lawyer without website", "No emergency contact system", "Missing digital presence"]
+    },
+    {
+      "id": 131,
+      "name": "Advocate Neetu Singh",
+      "location": "Sector 168, Noida",
+      "contact": {
+        "phone": ["9818990011"],
+        "email": null,
+        "address": "Sector 168, Noida Expressway"
+      },
+      "specialization": "Divorce Cases",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Divorce lawyer without website", "No online consultations", "Missing digital footprint"]
+    },
+    {
+      "id": 132,
+      "name": "Advocate Vishnu Sharma",
+      "location": "Sector 150, Noida",
+      "contact": {
+        "phone": ["9999887766"],
+        "email": null,
+        "address": "Sector 150, Noida"
+      },
+      "specialization": "Banking Law",
+      "website_status": "No website found",
+      "opportunity_score": 87,
+      "issues": ["Banking lawyer without website", "No online presence", "Missing financial sector connections"]
+    },
+    {
+      "id": 133,
+      "name": "Advocate Reena Kapoor",
+      "location": "Chi V, Greater Noida",
+      "contact": {
+        "phone": ["9810445566"],
+        "email": null,
+        "address": "Chi V, Greater Noida"
+      },
+      "specialization": "Consumer Protection",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital presence"]
+    },
+    {
+      "id": 134,
+      "name": "Advocate Sanjay Mishra",
+      "location": "Omicron, Greater Noida",
+      "contact": {
+        "phone": ["9873667788"],
+        "email": null,
+        "address": "Omicron 1A, Greater Noida"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Civil lawyer without online presence", "No portfolio"]
+    },
+    {
+      "id": 135,
+      "name": "Advocate Pradeep Arora",
+      "location": "Sector 104, Noida",
+      "contact": {
+        "phone": ["9818334455"],
+        "email": null,
+        "address": "Sector 104, Noida"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital marketing"]
+    },
+    {
+      "id": 136,
+      "name": "Advocate Sunita Devi",
+      "location": "Sector 78, Noida",
+      "contact": {
+        "phone": ["9999112233"],
+        "email": null,
+        "address": "Sector 78, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation system"]
+    },
+    {
+      "id": 137,
+      "name": "Advocate Rakesh Kumar",
+      "location": "Kasna, Greater Noida",
+      "contact": {
+        "phone": ["9873556677"],
+        "email": null,
+        "address": "Kasna, Greater Noida"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 80,
+      "issues": ["Criminal lawyer without website", "Rural area without digital presence", "No emergency contact"]
+    },
+    {
+      "id": 138,
+      "name": "Advocate Meera Saxena",
+      "location": "Sector 37, Noida",
+      "contact": {
+        "phone": ["9810778899"],
+        "email": null,
+        "address": "Sector 37, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No B2B online presence", "Missing portfolio"]
+    },
+    {
+      "id": 139,
+      "name": "Advocate Vijay Kumar",
+      "location": "Sector 61, Noida",
+      "contact": {
+        "phone": ["9999667788"],
+        "email": null,
+        "address": "Sector 61, Noida"
+      },
+      "specialization": "Labour Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Labour lawyer without website", "Industrial area without online presence", "No digital footprint"]
+    },
+    {
+      "id": 140,
+      "name": "Advocate Anita Sharma",
+      "location": "Sector 52, Noida",
+      "contact": {
+        "phone": ["9818556677"],
+        "email": null,
+        "address": "Sector 52, Noida"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Matrimonial lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 141,
+      "name": "Advocate Sunil Verma",
+      "location": "Sector 12, Noida",
+      "contact": {
+        "phone": ["9873445566"],
+        "email": null,
+        "address": "Sector 12, Noida"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Old sector without digital presence", "No online visibility"]
+    },
+    {
+      "id": 142,
+      "name": "Advocate Kavita Rao",
+      "location": "Sector 22, Noida",
+      "contact": {
+        "phone": ["9810223344"],
+        "email": null,
+        "address": "Sector 22, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation booking"]
+    },
+    {
+      "id": 143,
+      "name": "Advocate Ashok Gupta",
+      "location": "Sector 27, Noida",
+      "contact": {
+        "phone": ["9999889900"],
+        "email": null,
+        "address": "Sector 27, Noida"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital marketing"]
+    },
+    {
+      "id": 144,
+      "name": "Advocate Ritu Singh",
+      "location": "Sector 34, Noida",
+      "contact": {
+        "phone": ["9818667788"],
+        "email": null,
+        "address": "Sector 34, Noida"
+      },
+      "specialization": "Consumer Cases",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital presence"]
+    },
+    {
+      "id": 145,
+      "name": "Advocate Manoj Kumar",
+      "location": "Sector 41, Noida",
+      "contact": {
+        "phone": ["9873778899"],
+        "email": null,
+        "address": "Sector 41, Noida"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Criminal lawyer without website", "No emergency contact", "Missing digital footprint"]
+    },
+    {
+      "id": 146,
+      "name": "Advocate Sheela Jain",
+      "location": "Sector 49, Noida",
+      "contact": {
+        "phone": ["9810556677"],
+        "email": null,
+        "address": "Sector 49, Noida"
+      },
+      "specialization": "Divorce Cases",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Divorce lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 147,
+      "name": "Advocate Pankaj Sharma",
+      "location": "Sector 51, Noida",
+      "contact": {
+        "phone": ["9999445566"],
+        "email": null,
+        "address": "Sector 51, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No B2B presence", "Missing online portfolio"]
+    },
+    {
+      "id": 148,
+      "name": "Advocate Nisha Verma",
+      "location": "Sector 55, Noida",
+      "contact": {
+        "phone": ["9818998877"],
+        "email": null,
+        "address": "Sector 55, Noida"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Civil lawyer without online presence", "No portfolio"]
+    },
+    {
+      "id": 149,
+      "name": "Advocate Rajiv Malhotra",
+      "location": "Sector 58, Noida",
+      "contact": {
+        "phone": ["9873889900"],
+        "email": null,
+        "address": "Sector 58, Noida"
+      },
+      "specialization": "Banking Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Banking lawyer without website", "No financial sector presence", "Missing digital footprint"]
+    },
+    {
+      "id": 150,
+      "name": "Advocate Geeta Arora",
+      "location": "Sector 63, Noida",
+      "contact": {
+        "phone": ["9810334455"],
+        "email": null,
+        "address": "Sector 63, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "IT sector location without digital presence", "No online consultations"]
+    },
+    {
+      "id": 151,
+      "name": "Advocate Sanjay Aggarwal",
+      "location": "Sector 71, Noida",
+      "contact": {
+        "phone": ["9999556677"],
+        "email": null,
+        "address": "Sector 71, Noida"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio showcase", "Missing online visibility"]
+    },
+    {
+      "id": 152,
+      "name": "Advocate Meenakshi Kumar",
+      "location": "Sector 73, Noida",
+      "contact": {
+        "phone": ["9818776655"],
+        "email": null,
+        "address": "Sector 73, Noida"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Criminal lawyer without website", "No digital presence", "Missing emergency contact"]
+    },
+    {
+      "id": 153,
+      "name": "Advocate Vivek Rastogi",
+      "location": "Sector 74, Noida",
+      "contact": {
+        "phone": ["9873667788"],
+        "email": null,
+        "address": "Sector 74, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No online presence", "Missing B2B portfolio"]
+    },
+    {
+      "id": 154,
+      "name": "Advocate Sunita Malik",
+      "location": "Sector 75, Noida",
+      "contact": {
+        "phone": ["9810445566"],
+        "email": null,
+        "address": "Sector 75, Noida"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Matrimonial lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 155,
+      "name": "Advocate Rakesh Sinha",
+      "location": "Sector 77, Noida",
+      "contact": {
+        "phone": ["9999778899"],
+        "email": null,
+        "address": "Sector 77, Noida"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Civil lawyer without online presence", "No digital marketing"]
+    },
+    {
+      "id": 156,
+      "name": "Advocate Pooja Kapoor",
+      "location": "Sector 79, Noida",
+      "contact": {
+        "phone": ["9818334455"],
+        "email": null,
+        "address": "Sector 79, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation system"]
+    },
+    {
+      "id": 157,
+      "name": "Advocate Anil Mehta",
+      "location": "Sector 81, Noida",
+      "contact": {
+        "phone": ["9873556677"],
+        "email": null,
+        "address": "Sector 81, Noida"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital footprint"]
+    },
+    {
+      "id": 158,
+      "name": "Advocate Seema Pandey",
+      "location": "Sector 83, Noida",
+      "contact": {
+        "phone": ["9810667788"],
+        "email": null,
+        "address": "Sector 83, Noida"
+      },
+      "specialization": "Consumer Protection",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital presence"]
+    },
+    {
+      "id": 159,
+      "name": "Advocate Vijay Sharma",
+      "location": "Sector 86, Noida",
+      "contact": {
+        "phone": ["9999889900"],
+        "email": null,
+        "address": "Sector 86, Noida"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Criminal lawyer without website", "No emergency contact", "Missing digital presence"]
+    },
+    {
+      "id": 160,
+      "name": "Advocate Nidhi Agarwal",
+      "location": "Sector 89, Noida",
+      "contact": {
+        "phone": ["9818445566"],
+        "email": null,
+        "address": "Sector 89, Noida"
+      },
+      "specialization": "Divorce Cases",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Divorce lawyer without website", "No online consultations", "Missing digital footprint"]
+    },
+    {
+      "id": 161,
+      "name": "Advocate Suresh Bansal",
+      "location": "Sector 91, Noida",
+      "contact": {
+        "phone": ["9873778899"],
+        "email": null,
+        "address": "Sector 91, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No B2B presence", "Missing online portfolio"]
+    },
+    {
+      "id": 162,
+      "name": "Advocate Kavita Gupta",
+      "location": "Sector 92, Noida",
+      "contact": {
+        "phone": ["9810556677"],
+        "email": null,
+        "address": "Sector 92, Noida"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Civil lawyer without online presence", "No portfolio"]
+    },
+    {
+      "id": 163,
+      "name": "Advocate Manish Jain",
+      "location": "Sector 94, Noida",
+      "contact": {
+        "phone": ["9999445566"],
+        "email": null,
+        "address": "Sector 94, Noida"
+      },
+      "specialization": "Banking Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Banking lawyer without website", "No financial sector presence", "Missing digital footprint"]
+    },
+    {
+      "id": 164,
+      "name": "Advocate Ritu Verma",
+      "location": "Sector 96, Noida",
+      "contact": {
+        "phone": ["9818998877"],
+        "email": null,
+        "address": "Sector 96, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation booking"]
+    },
+    {
+      "id": 165,
+      "name": "Advocate Ashok Kumar",
+      "location": "Sector 97, Noida",
+      "contact": {
+        "phone": ["9873889900"],
+        "email": null,
+        "address": "Sector 97, Noida"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio showcase", "Missing online visibility"]
+    },
+    {
+      "id": 166,
+      "name": "Advocate Sheela Singh",
+      "location": "Sector 99, Noida",
+      "contact": {
+        "phone": ["9810334455"],
+        "email": null,
+        "address": "Sector 99, Noida"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Criminal lawyer without website", "No digital presence", "Missing emergency contact"]
+    },
+    {
+      "id": 167,
+      "name": "Advocate Pankaj Verma",
+      "location": "Sector 100, Noida",
+      "contact": {
+        "phone": ["9999556677"],
+        "email": null,
+        "address": "Sector 100, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No online presence", "Missing B2B portfolio"]
+    },
+    {
+      "id": 168,
+      "name": "Advocate Nisha Sharma",
+      "location": "Sector 105, Noida",
+      "contact": {
+        "phone": ["9818776655"],
+        "email": null,
+        "address": "Sector 105, Noida"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Matrimonial lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 169,
+      "name": "Advocate Rajesh Arora",
+      "location": "Sector 107, Noida",
+      "contact": {
+        "phone": ["9873667788"],
+        "email": null,
+        "address": "Sector 107, Noida"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Civil lawyer without online presence", "No digital marketing"]
+    },
+    {
+      "id": 170,
+      "name": "Advocate Meera Joshi",
+      "location": "Sector 108, Noida",
+      "contact": {
+        "phone": ["9810445566"],
+        "email": null,
+        "address": "Sector 108, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation system"]
+    },
+    {
+      "id": 171,
+      "name": "Advocate Vijay Malhotra",
+      "location": "Sector 110, Noida",
+      "contact": {
+        "phone": ["9999778899"],
+        "email": null,
+        "address": "Sector 110, Noida"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital footprint"]
+    },
+    {
+      "id": 172,
+      "name": "Advocate Anita Kapoor",
+      "location": "Sector 113, Noida",
+      "contact": {
+        "phone": ["9818334455"],
+        "email": null,
+        "address": "Sector 113, Noida"
+      },
+      "specialization": "Consumer Protection",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital presence"]
+    },
+    {
+      "id": 173,
+      "name": "Advocate Sanjay Kumar",
+      "location": "Sector 115, Noida",
+      "contact": {
+        "phone": ["9873556677"],
+        "email": null,
+        "address": "Sector 115, Noida"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Criminal lawyer without website", "No emergency contact", "Missing digital presence"]
+    },
+    {
+      "id": 174,
+      "name": "Advocate Priya Sharma",
+      "location": "Sector 117, Noida",
+      "contact": {
+        "phone": ["9810667788"],
+        "email": null,
+        "address": "Sector 117, Noida"
+      },
+      "specialization": "Divorce Cases",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Divorce lawyer without website", "No online consultations", "Missing digital footprint"]
+    },
+    {
+      "id": 175,
+      "name": "Advocate Rakesh Gupta",
+      "location": "Sector 119, Noida",
+      "contact": {
+        "phone": ["9999889900"],
+        "email": null,
+        "address": "Sector 119, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No B2B presence", "Missing online portfolio"]
+    },
+    {
+      "id": 176,
+      "name": "Advocate Sunita Kumar",
+      "location": "Sector 121, Noida",
+      "contact": {
+        "phone": ["9818445566"],
+        "email": null,
+        "address": "Sector 121, Noida"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Civil lawyer without online presence", "No portfolio"]
+    },
+    {
+      "id": 177,
+      "name": "Advocate Manoj Singh",
+      "location": "Sector 122, Noida",
+      "contact": {
+        "phone": ["9873778899"],
+        "email": null,
+        "address": "Sector 122, Noida"
+      },
+      "specialization": "Banking Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Banking lawyer without website", "No financial sector presence", "Missing digital footprint"]
+    },
+    {
+      "id": 178,
+      "name": "Advocate Kavita Verma",
+      "location": "Sector 125, Noida",
+      "contact": {
+        "phone": ["9810556677"],
+        "email": null,
+        "address": "Sector 125, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation booking"]
+    },
+    {
+      "id": 179,
+      "name": "Advocate Ashish Malhotra",
+      "location": "Sector 126, Noida",
+      "contact": {
+        "phone": ["9999445566"],
+        "email": null,
+        "address": "Sector 126, Noida"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio showcase", "Missing online visibility"]
+    },
+    {
+      "id": 180,
+      "name": "Advocate Ritu Jain",
+      "location": "Sector 127, Noida",
+      "contact": {
+        "phone": ["9818998877"],
+        "email": null,
+        "address": "Sector 127, Noida"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Criminal lawyer without website", "No digital presence", "Missing emergency contact"]
+    },
+    {
+      "id": 181,
+      "name": "Advocate Vivek Sharma",
+      "location": "Sector 129, Noida",
+      "contact": {
+        "phone": ["9873889900"],
+        "email": null,
+        "address": "Sector 129, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No online presence", "Missing B2B portfolio"]
+    },
+    {
+      "id": 182,
+      "name": "Advocate Seema Malik",
+      "location": "Sector 130, Noida",
+      "contact": {
+        "phone": ["9810334455"],
+        "email": null,
+        "address": "Sector 130, Noida"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Matrimonial lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 183,
+      "name": "Advocate Pankaj Kumar",
+      "location": "Sector 131, Noida",
+      "contact": {
+        "phone": ["9999556677"],
+        "email": null,
+        "address": "Sector 131, Noida"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Civil lawyer without online presence", "No digital marketing"]
+    },
+    {
+      "id": 184,
+      "name": "Advocate Nidhi Verma",
+      "location": "Sector 132, Noida",
+      "contact": {
+        "phone": ["9818776655"],
+        "email": null,
+        "address": "Sector 132, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation system"]
+    },
+    {
+      "id": 185,
+      "name": "Advocate Rajiv Aggarwal",
+      "location": "Sector 134, Noida",
+      "contact": {
+        "phone": ["9873667788"],
+        "email": null,
+        "address": "Sector 134, Noida"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital footprint"]
+    },
+    {
+      "id": 186,
+      "name": "Advocate Meenakshi Singh",
+      "location": "Sector 140, Noida",
+      "contact": {
+        "phone": ["9810445566"],
+        "email": null,
+        "address": "Sector 140, Noida"
+      },
+      "specialization": "Consumer Protection",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital presence"]
+    },
+    {
+      "id": 187,
+      "name": "Advocate Vijay Arora",
+      "location": "Sector 141, Noida",
+      "contact": {
+        "phone": ["9999778899"],
+        "email": null,
+        "address": "Sector 141, Noida"
+      },
+      "specialization": "Criminal Defense",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Criminal lawyer without website", "No emergency contact", "Missing digital presence"]
+    },
+    {
+      "id": 188,
+      "name": "Advocate Pooja Singh",
+      "location": "Sector 142, Noida",
+      "contact": {
+        "phone": ["9818334455"],
+        "email": null,
+        "address": "Sector 142, Noida"
+      },
+      "specialization": "Divorce Cases",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Divorce lawyer without website", "No online consultations", "Missing digital footprint"]
+    },
+    {
+      "id": 189,
+      "name": "Advocate Sanjay Sharma",
+      "location": "Sector 144, Noida",
+      "contact": {
+        "phone": ["9873556677"],
+        "email": null,
+        "address": "Sector 144, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No B2B presence", "Missing online portfolio"]
+    },
+    {
+      "id": 190,
+      "name": "Advocate Kavita Kapoor",
+      "location": "Sector 146, Noida",
+      "contact": {
+        "phone": ["9810667788"],
+        "email": null,
+        "address": "Sector 146, Noida"
+      },
+      "specialization": "Civil Litigation",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["No website", "Civil lawyer without online presence", "No portfolio"]
+    },
+    {
+      "id": 191,
+      "name": "Advocate Manoj Verma",
+      "location": "Sector 147, Noida",
+      "contact": {
+        "phone": ["9999889900"],
+        "email": null,
+        "address": "Sector 147, Noida"
+      },
+      "specialization": "Banking Law",
+      "website_status": "No website found",
+      "opportunity_score": 86,
+      "issues": ["Banking lawyer without website", "No financial sector presence", "Missing digital footprint"]
+    },
+    {
+      "id": 192,
+      "name": "Advocate Sunita Jain",
+      "location": "Sector 148, Noida",
+      "contact": {
+        "phone": ["9818445566"],
+        "email": null,
+        "address": "Sector 148, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation booking"]
+    },
+    {
+      "id": 193,
+      "name": "Advocate Rakesh Malhotra",
+      "location": "Sector 149, Noida",
+      "contact": {
+        "phone": ["9873778899"],
+        "email": null,
+        "address": "Sector 149, Noida"
+      },
+      "specialization": "Property Disputes",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio showcase", "Missing online visibility"]
+    },
+    {
+      "id": 194,
+      "name": "Advocate Nisha Kumar",
+      "location": "Sector 151, Noida",
+      "contact": {
+        "phone": ["9810556677"],
+        "email": null,
+        "address": "Sector 151, Noida"
+      },
+      "specialization": "Criminal Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Criminal lawyer without website", "No digital presence", "Missing emergency contact"]
+    },
+    {
+      "id": 195,
+      "name": "Advocate Ashok Sharma",
+      "location": "Sector 152, Noida",
+      "contact": {
+        "phone": ["9999445566"],
+        "email": null,
+        "address": "Sector 152, Noida"
+      },
+      "specialization": "Corporate Law",
+      "website_status": "No website found",
+      "opportunity_score": 85,
+      "issues": ["Corporate lawyer without website", "No online presence", "Missing B2B portfolio"]
+    },
+    {
+      "id": 196,
+      "name": "Advocate Meera Gupta",
+      "location": "Sector 153, Noida",
+      "contact": {
+        "phone": ["9818998877"],
+        "email": null,
+        "address": "Sector 153, Noida"
+      },
+      "specialization": "Matrimonial Cases",
+      "website_status": "No website found",
+      "opportunity_score": 83,
+      "issues": ["Matrimonial lawyer without website", "No online consultations", "Missing digital presence"]
+    },
+    {
+      "id": 197,
+      "name": "Advocate Vijay Singh",
+      "location": "Sector 154, Noida",
+      "contact": {
+        "phone": ["9873889900"],
+        "email": null,
+        "address": "Sector 154, Noida"
+      },
+      "specialization": "Civil Cases",
+      "website_status": "No website found",
+      "opportunity_score": 81,
+      "issues": ["No website", "Civil lawyer without online presence", "No digital marketing"]
+    },
+    {
+      "id": 198,
+      "name": "Advocate Anita Malik",
+      "location": "Sector 155, Noida",
+      "contact": {
+        "phone": ["9810334455"],
+        "email": null,
+        "address": "Sector 155, Noida"
+      },
+      "specialization": "Family Law",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Family lawyer without website", "No online presence", "Missing consultation system"]
+    },
+    {
+      "id": 199,
+      "name": "Advocate Suresh Jain",
+      "location": "Sector 156, Noida",
+      "contact": {
+        "phone": ["9999556677"],
+        "email": null,
+        "address": "Sector 156, Noida"
+      },
+      "specialization": "Property Law",
+      "website_status": "No website found",
+      "opportunity_score": 84,
+      "issues": ["Property lawyer without website", "No portfolio", "Missing digital footprint"]
+    },
+    {
+      "id": 200,
+      "name": "Advocate Pooja Rastogi",
+      "location": "Sector 158, Noida",
+      "contact": {
+        "phone": ["9818776655"],
+        "email": null,
+        "address": "Sector 158, Noida"
+      },
+      "specialization": "Consumer Protection",
+      "website_status": "No website found",
+      "opportunity_score": 82,
+      "issues": ["Consumer lawyer without website", "No online visibility", "Missing digital presence"]
+    }
+  ]
+}

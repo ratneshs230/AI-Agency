@@ -1,0 +1,49 @@
+{
+  "firm_name": "Vasant Kunj Design Workshop",
+  "generated_at": "2025-11-24T00:54:24.215Z",
+  "results": {
+    "images": [
+      "hero-bg.jpg",
+      "about-hero.jpg",
+      "project-1.jpg",
+      "project-2.jpg",
+      "project-3.jpg",
+      "project-4.jpg",
+      "cta-bg.jpg"
+    ],
+    "videos": [],
+    "failed": [
+      "hero-video.mp4"
+    ]
+  },
+  "prompts": [
+    {
+      "name": "hero-bg.jpg",
+      "prompt": "Professional architectural photograph, Industrial Chic design building, Healthcare Architecture, dramatic golden hour lighting, high-end commercial real estate photography, 8K resolution, cinematic wide angle composition, premium quality, no text"
+    },
+    {
+      "name": "about-hero.jpg",
+      "prompt": "Architecture studio interior, modern design office, architects working, natural light through large windows, professional environment, Industrial Chic aesthetic, clean and organized, magazine quality"
+    },
+    {
+      "name": "project-1.jpg",
+      "prompt": "Healthcare Architecture project exterior photograph, Industrial Chic architecture, professional real estate photography, well-lit, clean composition, luxury quality, award-winning design"
+    },
+    {
+      "name": "project-2.jpg",
+      "prompt": "Modern interior design photograph, Industrial Chic style, spacious living area, natural light, premium materials, architectural digest quality, minimalist furniture"
+    },
+    {
+      "name": "project-3.jpg",
+      "prompt": "Commercial building interior photograph, Industrial Chic design, lobby or reception area, professional lighting, marble and glass materials, corporate elegance"
+    },
+    {
+      "name": "project-4.jpg",
+      "prompt": "Residential architecture exterior, Industrial Chic home design, landscaped garden, twilight photography, warm interior lights, premium real estate quality"
+    },
+    {
+      "name": "cta-bg.jpg",
+      "prompt": "Abstract architectural detail photograph, Industrial Chic building elements, play of light and shadow, geometric patterns, premium materials texture, artistic composition"
+    }
+  ]
+}

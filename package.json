@@ -1,0 +1,28 @@
+{
+  "name": "web-building-agency",
+  "version": "1.0.0",
+  "description": "Premium website builder for architecture firms with AI-generated resources",
+  "main": "agents/build-all.js",
+  "scripts": {
+    "generate-concepts": "node generate_concepts.js",
+    "generate-content": "node generate_website_content.js",
+    "build-websites": "node agents/website-builder.js",
+    "generate-resources": "node agents/resource-generator.js",
+    "build-all": "node agents/build-all.js",
+    "build-range": "node agents/build-all.js",
+    "enhance-ui": "node agents/ui-enhancer.js",
+    "generate-videos": "node agents/video-generator.js"
+  },
+  "keywords": [
+    "website-builder",
+    "architecture",
+    "premium-design",
+    "gemini-api",
+    "ai-resources"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.6.1"
+  }
+}
